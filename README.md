@@ -2,7 +2,7 @@
 
 A simple Docker project that demonstrates the basics of creating and running a Docker container using Alpine Linux.
 
-**Project Page URL:** https://roadmap.sh/projects/hello-captain
+**Project Page URL:** https://roadmap.sh/projects/basic-dockerfile
 
 ## Overview
 
